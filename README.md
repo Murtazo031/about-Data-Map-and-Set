@@ -24,6 +24,7 @@ const specificDate = new Date("2025-01-01T12:00:00Z"); // Указанная д�
   - `.setDate(date)`
   - `.setHours(hours, [minutes], [seconds], [ms])`
 
+![](https://www.scaler.com/topics/images/map-and-set-javascript_Thumbnail.webp)
 ## `new Map()`
 `Map` — коллекция, хранящая пары ключ-значение, где ключи могут быть любого типа.
 
